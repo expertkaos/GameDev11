@@ -16,7 +16,7 @@ Run the main script using Python:
 
 ### Game Progress Checklist ###
 - [x]  **Set Up the Game Window**
-    - [x]  Initialize Pygame and set up the display surface.
+    - [x]  Initialise Pygame and set up the display surface.
     - [x]  Configure the window title and dimensions.
 - [x]  **Design the Main Character**
     - [x]  Develop the main character sprite.
@@ -30,11 +30,14 @@ Run the main script using Python:
 - [ ]  **Introduce the Primary Antagonist**
     - [ ]  Craft the main enemy sprite.
     - [ ]  Formulate the main enemy’s behaviour and logic.
-- [ ]  **Generate a Dynamic World**
-    - [ ]  Create a looping background to simulate a continuous world.
+- [x]  **Generate a Dynamic World**
+    - [x]  Create a looping background to simulate a continuous world.
 - [ ]  **Create the Objective**
-    - [ ]  Design the planet (objective) sprite.
+    - [x]  Design the planet (objective) sprite.
     - [ ]  Develop the logic for the planet interactions.
+- [ ]  **Create the music**
+    - [x]  get music for the game.
+    - [ ]  implement music in game.
 - [ ]  **Add an Upgrade System**
     - [ ]  Construct an upgrade menu for character enhancements.
     - [ ]  Implement upgrades that affect the main character’s abilities.
